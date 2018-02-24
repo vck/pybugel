@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pybagel (not a lib)
 -------------------
 
@@ -13,3 +14,7 @@ sentences, rather the title using `code` like SyntaxError or ImportError
 
 
 
+=======
+# pybugel
+classification of python bug based on its title
+>>>>>>> 23f67b71553c81165a2d7c20b75d2623e73b9ba8
